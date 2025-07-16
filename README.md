@@ -1,8 +1,20 @@
 <h1>何日见原铁面板图存储库</h1>
 
-#### 食用方法
-**见[主仓库](https://gitee.com/herijian/characterpic)**
+#### 仓库说明
+存储库仅储存面板图，**食用方法**等见主仓库
 
+#### 食用方法
+**见[Gitee主仓库](https://gitee.com/herijian/characterpic)**
+
+### 主仓库
+* [Gitee](https://gitee.com/herijian/characterpic)
+* [Github](https://github.com/herijian1/characterpic)
+* [Gitcode](https://gitcode.com/herijian/characterpic)
+
+#### 存储库
+* [Gitee](https://gitee.com/herijian/characterpic1)
+* [Github](https://github.com/herijian1/characterpic1)
+* [Gitcode](https://gitcode.com/herijian/characterpic1)
 
 #### 免责声明
 * **请勿将此模板图库用于任何以盈利为目的的场景.** 
