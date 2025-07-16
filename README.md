@@ -6,7 +6,7 @@
 #### 食用方法
 **见[Gitee主仓库](https://gitee.com/herijian/characterpic)**
 
-### 主仓库
+#### 主仓库
 * [Gitee](https://gitee.com/herijian/characterpic)
 * [Github](https://github.com/herijian1/characterpic)
 * [Gitcode](https://gitcode.com/herijian/characterpic)
