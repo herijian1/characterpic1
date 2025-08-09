@@ -4,7 +4,7 @@
 存储库仅储存面板图，**食用方法**等见主仓库
 
 #### 食用方法
-**见[Gitee主仓库](https://gitee.com/herijian/characterpic)**
+**在下面的主仓库写的有**
 
 #### 主仓库
 * [Gitee](https://gitee.com/herijian/characterpic)
