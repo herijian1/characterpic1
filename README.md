@@ -7,13 +7,13 @@
 在下面的**主仓库**写的有
 
 #### 主仓库
-* [Gitee](https://gitee.com/herijian/characterpic)
 * [Github](https://github.com/herijian1/characterpic)
+* [Gitee](https://gitee.com/herijian/characterpic)
 * [Gitcode](https://gitcode.com/herijian/characterpic)
 
 #### 存储库
-* [Gitee](https://gitee.com/herijian/characterpic1)
 * [Github](https://github.com/herijian1/characterpic1)
+* [Gitee](https://gitee.com/herijian/characterpic1)
 * [Gitcode](https://gitcode.com/herijian/characterpic1)
 
 #### 免责声明
